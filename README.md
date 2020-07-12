@@ -28,8 +28,6 @@ Here are some ideas to get you started:
 
 ## Hi there 👋
 
-### I'm Filipe Jessé
-
 - 🚀 Software Engineer with 2+ years of experience in developing web crawlers and web applications.
 - 🎓 IT Technician, Graduating in Barchelor's Degree, Information Technology.
 - :heart: Passionate about learning new software development skills, meet new people and work in teams.

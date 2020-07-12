@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 - 🚀 Software Engineer with 2+ years of experience in developing web crawlers and web applications.
 - 🎓 IT Technician, Graduating in Barchelor's Degree, Information Technology.
-- :red_heart: Passionate about learning new software development skills, meet new people and work in teams.
+- :heart: Passionate about learning new software development skills, meet new people and work in teams.
 - 💻 Main expertise in C#, ASP.NET and ASP.NET Core.
 
 Other Info

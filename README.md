@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 - 💻 Main expertise in C#, ASP.NET and ASP.NET Core.
 
 Other Info
-- :round_pushpin: In 2019 I have studied in Portugal as an interchange project at Polytechnic Institute of Guarda.
+- :airplane: In 2019 I have studied in Portugal as an interchange project at Polytechnic Institute of Guarda.
 - ⚡ Gold medal at the Brazilian Mathematics Olympiad in 2012 and Silver medal in 2016.
 - 🤔 I also have a bit of knowledge on software architeture and web designing.
 - 🔭 During this quarantine of the year 2020, I'm working along my friends to develop systems to ease people's work from home.
